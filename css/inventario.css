@@ -1,0 +1,55 @@
+/* General */
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210630/pngtree-abstract-background-with-cool-colors-image_735122.jpg);
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #333;
+    margin: 0;
+   
+}
+
+/* Contenedores principales */
+.div-listado {
+    background-color:  #d2dee4;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    text-align: center;
+}
+
+nav {
+    background-color: #d2dee4;
+    padding: 20px ;
+    text-align: left;
+    height: 170px;
+    width: 300px;
+   margin:20px auto ;
+    border-radius: 10px;
+    position: relative;
+    right: 250px;
+    
+}
+
+
+nav a {
+    color: #111111;
+    text-decoration: none;
+    margin: 0 15px;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+nav a:hover {
+    background-color: #71c3e4;
+}
+.content {
+    padding: 20px;
+    text-align: center;}
